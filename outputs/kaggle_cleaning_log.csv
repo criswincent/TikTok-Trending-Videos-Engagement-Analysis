@@ -1,0 +1,5 @@
+step,rows_before,rows_after,removed
+duplicate video ids,1000,1000,0
+missing views or likes,1000,1000,0
+zero (or negative) views,1000,1000,0
+"negative likes, or likes > views",1000,1000,0
