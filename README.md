@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TikTok Trending Videos: Engagement Analysis
 Which video attributes go with higher engagement among 1,000 trending TikTok videos?
 
@@ -16,3 +17,5 @@ Cleaning log, engineered features, bootstrap CIs, Kruskal-Wallis / Mann-Whitney 
 
 ## Limitations
 Small sample, late-2020 snapshot, trending-only videos (no baseline), descriptive not causal.
+=======
+
